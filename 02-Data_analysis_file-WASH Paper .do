@@ -1,6 +1,6 @@
 *************: WASH AND COVID19 Effect Analysis :******************************
 *************:    Data Analysis and Modelling 	:******************************
-cd "/Users/mac/Library/CloudStorage/OneDrive-Personal/EvidenceAction Program/Year 11/Publications/Milestone3 - Publications/Datasets"
+cd "~/Year 11/Publications/Milestone3 - Publications/Datasets"
 
 use "01_Pre_post_covid19_dataset.dta", clear
 
