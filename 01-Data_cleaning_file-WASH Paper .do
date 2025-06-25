@@ -1,6 +1,6 @@
 *************: WASH AND COVID19 Effect Analysis :******************************
 ********************:     Data Cleaning 	:**********************************
-cd "/Users/mac/Library/CloudStorage/OneDrive-Personal/EvidenceAction Program/Year 11/Publications/Milestone3 - Publications/Datasets"
+cd "~/Year 11/Publications/Milestone3 - Publications/Datasets"
 
 ****: Creating pre-COVID19 dataset
 use "Pre_covid19_dataset.dta", clear
